@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+/* colors */
+.color-gray {
+    color: #e4e4e4;
+}
+
+.bg-gray-50 {
+    background-color: #f9fafb;
+}
+
+.bg-gray-100 {
+    background-color: #f3f4f6;
+}
+
+.bg-gray-200 {
+    background-color: #e5e7eb;
+}
+
+/* font sizes */
+.fs-1 {
+    font-size: 1.5rem;
+}
+
+.fs-2 {
+    font-size: 1.25rem;
+}
+
+.fs-3 {
+    font-size: 1rem;
+}
+
+/* text sizes */
+
+.text-xs {
+    font-size: 10px;
+}
+
+.text-sm {
+    font-size: 12px;
+}
+
+.text-md {
+    font-size: 22px;
+}
+
+/* custom width && height */
+
+.w-10 {
+    width: 2rem;
+}
