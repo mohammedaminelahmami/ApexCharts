@@ -8,38 +8,19 @@ html {
     overflow-x: hidden;
 }
 
+/* Border raduis */
+
+.rounded {
+    border-radius: 0.8rem !important;
+}
+
 /* colors */
 .color-gray {
     color: #e4e4e4;
 }
 
-.bg-gray-50 {
-    background-color: #f9fafb;
-}
-
-.bg-gray-100 {
-    background-color: #f3f4f6;
-}
-
-.bg-gray-200 {
-    background-color: #e5e7eb;
-}
-
-.bg-sp-blue {
-    background-color: #94BBE2;
-}
-
-/* font sizes */
-.fs-1 {
-    font-size: 1.5rem;
-}
-
-.fs-2 {
-    font-size: 1.25rem;
-}
-
-.fs-3 {
-    font-size: 1rem;
+.bg-gray {
+    background-color: #CCCBD1;
 }
 
 /* text sizes */
