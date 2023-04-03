@@ -25,6 +25,10 @@ html {
     background-color: #e5e7eb;
 }
 
+.bg-sp-blue {
+    background-color: #94BBE2;
+}
+
 /* font sizes */
 .fs-1 {
     font-size: 1.5rem;
@@ -52,7 +56,14 @@ html {
     font-size: 22px;
 }
 
+.text-normal {
+    font-size: 16px;
+}
+
 /* custom width && height */
+.w-5 {
+    width: 1rem;
+}
 
 .w-10 {
     width: 2rem;
